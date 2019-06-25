@@ -382,6 +382,19 @@ h6{
   background-color: white;
 }
 
+.awslogo {
+  height: 30px;
+  width: 15vw;
+
+}
+
+.parent-div {
+  position: relative;
+}
+
+.child-div {
+  position: absolute;
+}
 .main-pic {
   height: 375px;
   width: 21vw;
