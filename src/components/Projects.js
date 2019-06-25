@@ -29,8 +29,8 @@ class Projects extends Component{
               
               <div className="explore">
               <br/>
-              <a href="#" target="_blank" rel="noopener noreferrer">Explore App <i className="fa fa-external-link"/></a>
-              <a href="#" target="_blank" rel="noopener noreferrer">Repo <i className="fa fa-github" aria-hidden="true"/></a>
+              <a href="https://www.hotelsatbasara.com/" target="_blank" rel="noopener noreferrer">Explore App <i className="fa fa-external-link"/></a>
+              <a href="https://github.com/rakeshreddy111/basarahotels" target="_blank" rel="noopener noreferrer">Repo <i className="fa fa-github" aria-hidden="true"/></a>
               </div>
             </div>
           </div>
@@ -49,8 +49,7 @@ class Projects extends Component{
               
               <div className="explore">
               <br/>
-              <a href="#" target="_blank" rel="noopener noreferrer">Explore App <i className="fa fa-external-link"/></a>
-              <a href="#" target="_blank" rel="noopener noreferrer">Repo <i className="fa fa-github" aria-hidden="true"/></a>
+              <a href="https://github.com/rakeshreddy111/event-registration" target="_blank" rel="noopener noreferrer">Repo <i className="fa fa-github" aria-hidden="true"/></a>
               </div>
             </div>
           </div>
@@ -71,8 +70,7 @@ class Projects extends Component{
               
               <div className="explore">
               <br/>
-              <a href="#" target="_blank" rel="noopener noreferrer">Explore App <i className="fa fa-external-link"/></a>
-              <a href="#" target="_blank" rel="noopener noreferrer">Repo <i className="fa fa-github" aria-hidden="true"/></a>
+              <a href="#" rel="noopener noreferrer">Repo <i className="fa fa-github" aria-hidden="true"/></a>
               </div>
             </div>
           </div>

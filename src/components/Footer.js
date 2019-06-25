@@ -17,7 +17,7 @@ class Footer extends Component{
                         <p><a href="https://medium.com/@rakeshreddy_46136" target="_blank" rel="noopener noreferrer"><i className="fa fa-medium i-hov" aria-hidden="true"/> Blog</a></p><br/>
                         <h3>This Site</h3> <br/>
                         <p>Made with ❤️ by <strong>Rakesh Reddy Buttreddy</strong> using React, Bootstrap and custom CSS</p>
-                        <p>Check out the repo <strong><a href="https://github.com/rakeshreddy111/mysite" target="_blank" rel="noopener noreferrer">here on github</a></strong> © 2019</p>
+                        <p>Check out the repo <strong><a href="https://github.com/rakeshreddy111/myportfolio" target="_blank" rel="noopener noreferrer">here on github</a></strong> © 2019</p>
                 </div>
             </div>
         );

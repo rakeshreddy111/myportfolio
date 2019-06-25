@@ -18,7 +18,7 @@ class App extends Component {
           <h2 id="about"></h2>
           <Welcome />
 
-          <h3 className="heading center" id="work"> What I have done so far </h3> <br /> <br />
+          <h3 className="heading center" id="work"> What I have done so far </h3> <br />
             <Work />
             <br />
       
