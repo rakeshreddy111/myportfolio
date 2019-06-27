@@ -14,13 +14,14 @@ import redux from '../images/redux.png';
 import reactrouter from '../images/react-router.png';
 import spring from '../images/spring.png';
 import hibernate from '../images/hibernate.png';
-import oracle from '../images/oracle.jpg';
+import oracle from '../images/oracle.png';
 import mysql from '../images/mysql.png';
 import aws from '../images/aws.png';
 import mongodb from '../images/mongo.png';
 import git from '../images/git.png';
 import websphere from '../images/websphere.png';
 import urbancode from '../images/urbancode.png';
+import tensorflow from '../images/tensorflow.png';
 
 class EducationSkills extends Component{
     render(){
@@ -84,9 +85,8 @@ class EducationSkills extends Component{
                     <img src={aws} alt="aws" title="aws" className="technology"/>
                     <img src={mongodb} alt="mongodb" title="mongodb" className="technology"/>
                     <img src={git} alt="git" title="git" className="technology"/>
-                    <img src={websphere} alt="websphere" title="websphere" className="technology-second"/>
                     <img src={urbancode} alt="urbancode" title="urbancode" className="technology-second"/>
-
+                    <img src={tensorflow} alt="tensorflow" title="tensorflow" className="technology-second"/>
                     
                 </div>
             </div>

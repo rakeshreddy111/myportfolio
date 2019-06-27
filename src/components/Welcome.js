@@ -23,7 +23,7 @@ class Welcome extends Component{
                     <a href="https://www.linkedin.com/in/rakesh-reddy-687b6558/" target="_blank" rel="noopener noreferrer"><i className="fa fa-linkedin-square i-hov" aria-hidden="true"/></a>  
                     <a href="https://medium.com/@rakeshreddy_46136" target="_blank" rel="noopener noreferrer"><i className="fa fa-medium i-hov" aria-hidden="true"/></a>  
                     <a href="https://github.com/rakeshreddy111" target="_blank" rel="noopener noreferrer"><i className="fa fa-github i-hov" aria-hidden="true"/></a> 
-                    <a href="mailto:buttreddy.rakesh@gmail.com?Subject=Hello%20there!" target="_top"><i className="fa fa-envelope i-hov" aria-hidden="true"/></a>
+                    <a href="mailto:rakeshbuttreddy@gmail.com?Subject=Hello%20there!" target="_top"><i className="fa fa-envelope i-hov" aria-hidden="true"/></a>
                 </div>
                 <div className="child-div">
                     <a target="_blank" href="https://drive.google.com/open?id=1Ar282AEQG6571aD-xAb-F90lBXFHHv4u">

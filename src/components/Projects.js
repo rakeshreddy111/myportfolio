@@ -6,7 +6,7 @@ import node from '../images/node.png';
 import javascript from '../images/javascript.png';
 import spring from '../images/spring.png';
 import hibernate from '../images/hibernate.png';
-import oracle from '../images/oracle.jpg';
+import oracle from '../images/oracle.png';
 import basarahotels from '../images/hotelsbasara.PNG';
 import events from '../images/events.PNG';
 
