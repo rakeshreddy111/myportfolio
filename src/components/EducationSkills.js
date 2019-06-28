@@ -19,7 +19,7 @@ import mysql from '../images/mysql.png';
 import aws from '../images/aws.png';
 import mongodb from '../images/mongo.png';
 import git from '../images/git.png';
-import websphere from '../images/websphere.png';
+import springboot from '../images/springboot.png';
 import urbancode from '../images/urbancode.png';
 import tensorflow from '../images/tensorflow.png';
 
@@ -35,8 +35,8 @@ class EducationSkills extends Component{
                         <div class="card-body">
                             <h5 class="card-title">Masters in Computer Science</h5>
                             <h6 className="job-title">The University of Southern Mississippi</h6>
-                            <h6 className="job-title">GPA: 3.94</h6>
-                            <p class="card-text">Jan 2016 - May 2017</p>
+                            <h6 className="job-title">GPA: 3.95</h6>
+                            <p class="mb-0  card-text">Jan 2016 - May 2017</p>
                             <p>Hattiesburg, MS</p>
                         </div>
                     </div>
@@ -47,7 +47,7 @@ class EducationSkills extends Component{
                             <h5 class="card-title">Bachelors in Computer Science</h5>
                             <h6 className="job-title">Jawaharlal Nehru Technological University</h6>
                             <h6 className="job-title">GPA: 3.52</h6>
-                            <p class="card-text">Sept 2011 - May 2015</p>
+                            <p class="mb-0  card-text">Sept 2011 - May 2015</p>
                             <p>Hyderabad, India</p>
                         </div>
                     </div>
@@ -58,35 +58,36 @@ class EducationSkills extends Component{
                     <hr/>
                     <div class="card-body"> Programming Languages</div>
                     
-                    <img src={java} alt="java" title="java" className="technology"/>
-                    <img src={javascript} alt="javascript" title="javascript" className="technology"/>
-                    <img src={c} alt="c++" title="c++" className="technology"/>
-                    <img src={python} alt="python" title="pyhton" className="technology"/>
+                    <img src={java} alt="Java" title="Java" className="technology"/>
+                    <img src={javascript} alt="Javascript" title="Javascript" className="technology"/>
+                    <img src={c} alt="C++" title="C++" className="technology"/>
+                    <img src={python} alt="Python" title="Pyhton" className="technology"/>
 
                     <div class="card-body"> Web Technologies</div>
                     
-                    <img src={html} alt="html" title="html" className="technology"/>
-                    <img src={css} alt="css" title="css" className="technology"/>
-                    <img src={bootstrap} alt="bootstrap" title="bootstrap" className="technology"/>
-                    <img src={jquery} alt="jquery" title="jquery" className="technology"/>
-                    <img src={angular} alt="angular" title="angular" className="technology"/>
-                    <img src={node} alt="node" title="node" className="technology"/>
-                    <img src={react} alt="react" title="react" className="technology"/>
-                    <img src={redux} alt="redux" title="redux" className="technology-second"/>
+                    <img src={html} alt="HTML" title="HTML" className="technology"/>
+                    <img src={css} alt="CSS" title="CSS" className="technology"/>
+                    <img src={bootstrap} alt="Bootstrap" title="Bootstrap" className="technology"/>
+                    <img src={jquery} alt="JQuery" title="JQuery" className="technology"/>
+                    <img src={angular} alt="Angular" title="Angular" className="technology"/>
+                    <img src={node} alt="Node" title="Node" className="technology"/>
+                    <img src={react} alt="React" title="React" className="technology"/>
+                    <img src={redux} alt="Redux" title="Redux" className="technology-second"/>
                     <img src={reactrouter} alt="react-router" title="react-router" className="technology-second"/>
 
                     
                     <div class="card-body"> Databases and Technologies</div>
                     
-                    <img src={spring} alt="spring" title="spring" className="technology"/>
-                    <img src={hibernate} alt="hibernate" title="hibernate" className="technology"/>
-                    <img src={oracle} alt="oracle" title="oracle" className="technology"/>
-                    <img src={mysql} alt="mysql" title="mysql" className="technology"/>
-                    <img src={aws} alt="aws" title="aws" className="technology"/>
-                    <img src={mongodb} alt="mongodb" title="mongodb" className="technology"/>
-                    <img src={git} alt="git" title="git" className="technology"/>
-                    <img src={urbancode} alt="urbancode" title="urbancode" className="technology-second"/>
-                    <img src={tensorflow} alt="tensorflow" title="tensorflow" className="technology-second"/>
+                    <img src={spring} alt="Spring" title="Spring" className="technology"/>
+                    <img src={hibernate} alt="Hibernate" title="Hibernate" className="technology"/>
+                    <img src={oracle} alt="Oracle" title="Oracle" className="technology"/>
+                    <img src={mysql} alt="MySQL" title="MySQL" className="technology"/>
+                    <img src={aws} alt="AWS" title="AWS" className="technology"/>
+                    <img src={springboot} alt="Spring Boot" title="Spring Boot" className="technology"/>
+                    <img src={mongodb} alt="MongoDB" title="MongoDB" className="technology"/>
+                    <img src={git} alt="Git" title="Git" className="technology-second"/>
+                    <img src={urbancode} alt="Urban Code" title="Urban Code" className="technology-second"/>
+                    <img src={tensorflow} alt="Tensor flow" title="Tensor flow" className="technology-second"/>
                     
                 </div>
             </div>

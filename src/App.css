@@ -180,6 +180,10 @@ h3 {
   font-weight: 800;
 }
 
+.bold {
+  font-weight: bold;
+}
+
 p {
   font-family: "Raleway", sans-serif;
   font-size: 16px;
@@ -194,10 +198,9 @@ p {
 }
 
 .image-height{
-  height: 200px;
-  width: 200px;
-  border-color: #5e9516;
-  border-style: solid;
+  height: 220px;
+  width: 220px;
+  border-style: none;
 }
 
 .section-paragraph {
@@ -264,10 +267,10 @@ p {
 
 .workplace-title{
   color: #37c;
+  font-family: "Raleway", sans-serif;
 }
 
 .job-title{
-  color: #5e9516;
   font-weight: bold;  
   font-family: "Raleway", sans-serif;
 }
@@ -303,10 +306,6 @@ p {
 
 .color-text{
   color: #31d181;
-}
-
-h6{
-  color: #f50057 !important;
 }
 
 .project-technology{
