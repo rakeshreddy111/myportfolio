@@ -4,7 +4,6 @@ import './App.css';
 import NavBar from './components/NavBar'
 import Welcome from './components/Welcome'
 import Projects from './components/Projects'
-import About from './components/About'
 import Work from './components/Work'
 import Footer from './components/Footer'
 import EducationSkills from './components/EducationSkills';
