@@ -34,7 +34,7 @@ class Blog extends Component{
                   <h5 className="job-title"><span className="color-text">Graduate Assistant,</span> Jan 2016 - May 2017</h5>
                   <h6 className="mt-0">Hattiesburg, Mississippi</h6>
                   <div className="work-content">
-                  <p className="mb-0">•	Developed web pages using JSF, JavaScript, AJAX and CSS as per the requirements and SQL queries to fetch data.</p>
+                  <p className="mb-0">•	Developed web pages using HTML5, CSS3, JQuery, React, Reactstrap, Redux, Redux-Thunk and React-Router.</p>
                   <p className="mb-0">• Involved in Automation of School of Computing student grading system using JavaScript.</p>
                   <p className="mb-0">• Deep Learning using Tensor Flow – Analysis of medical data using different Optimization Algorithms.</p>
                   </div>
